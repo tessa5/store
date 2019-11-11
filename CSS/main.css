@@ -1,0 +1,29 @@
+#collection {
+    width:100vw;
+    height:100rem;
+
+}
+.patio-slide {
+    width:40vw;
+    height:20rem;
+    overflow:hidden;
+    position:relative;
+}
+.images {
+    width:200vw;
+    height:20rem;
+    position: absolute;
+}
+.images > img {
+    width:40vw;
+    height:20rem;
+    float: left;
+    position: relative;
+}
+.patio-main .title {
+    font-size:1.9em;
+    font-family: 'Anton', sans-serif;
+    color: #00008b;
+    width:100vw;
+    text-align: center;
+}
